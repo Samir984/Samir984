@@ -1,38 +1,23 @@
-# Hello, I'm [Your Name] 👋
+<h1 align="center">Hi 👋, I'm Samir </h1>
+<h3 align="center"> Full Stack developer(Leaerning) </h3>
 
-Welcome to my GitHub profile! I'm passionate about [your interests and areas of expertise]. Here, you'll find a mix of personal projects, contributions to open source, and more.
+<p align="center">l
+<a href="https://www.linkedin.com/in/samir-neupane-59755b188/"><img src="https://img.shields.io/badge/-linkedin-yellowgreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
+<a href="https://twitter.com/SamirNeupane932"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+</p>
+<br />
 
-## About Me
+## Hand on
+![skills](https://skillicons.dev/icons?i=react,js,tailwindcss,scss,css,html,git&theme=dark)
 
-- 🌐 Website: [Your Website](https://www.yourwebsite.com)
-- 📝 Blog: [Your Blog](https://blog.yourwebsite.com)
-- 📫 How to reach me: [Your Email](mailto:you@example.com)
-
-## Technologies & Tools
-
-- 💻 I work with: [List of programming languages, tools, and technologies you're proficient in]
-- 🚀 I'm currently learning: [What you're currently focusing on improving or learning]
-- 👯 I'm looking to collaborate on: [Any specific types of projects or areas of interest for collaboration]
 
 ## Projects
+- 📝  [BlogShare](https://blogshare984.netlify.app/)
+- 🎬  [MovieMagnet](https://moviemagnet984.netlify.app/)
+-  ▶️  [YoutubeClone](https://youtubeclone984.netlify.app/)
+- ⭐  [menu](https://samir984.github.io/menu/)
+ 
 
-- 🌟 [Project 1](https://github.com/yourusername/project1): Short description
-- 🚧 [Project 2](https://github.com/yourusername/project2): Short description
+### ✨ Familiar with 
+![skills](https://skillicons.dev/icons?i=c,cpp&theme=dark)
 
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
-
-## Connect with Me
-
-- Twitter: [Your Twitter](https://twitter.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourusername)
-- Dev.to: [Your DEV Profile](https://dev.to/yourusername)
-
-## Fun Facts
-
-- 🎵 I love listening to [favorite genre or artist]
-- 🌱 I believe in continuous learning and personal growth
-- 🏆 I enjoy [any hobbies or activities outside of programming]
-
-Thanks for stopping by! Feel free to explore my projects and get in touch if you'd like to collaborate or just chat. 😊
