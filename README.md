@@ -15,7 +15,7 @@
 - 📝  [BlogShare](https://blogshare984.netlify.app/)  
 - 🎬  [MovieMagnet](https://moviemagnet984.netlify.app/)
 -  ▶️  [YoutubeClone](https://youtubeclone984.netlify.app/)
-- ⭐  [menu](https://samir984.github.io/menu/)  [vinalla js]
+- ⭐  [menu](https://samir984.github.io/menu/)  
  
 
 ### ✨ Familiar with 
