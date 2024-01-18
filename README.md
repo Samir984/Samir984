@@ -8,7 +8,7 @@
 <br />
 
 ## Hand on
-![skills](https://skillicons.dev/icons?i=react,js,tailwindcss,scss,css,html,git&theme=dark)
+![skills](https://skillicons.dev/icons?i=react,ts,js,tailwindcss,scss,css,html,git&theme=dark)
 
 
 ## Projects
