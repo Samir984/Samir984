@@ -8,7 +8,7 @@
 <br />
 
 ## Languages and tools
-![skills](https://skillicons.dev/icons?i=react,nodejs,postman,expressjs,ts,js,tailwindcss,scss,css,html,git&theme=dark)
+![skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,postman,expressjs,ts,js,tailwindcss,scss,css,appwrite,html,git&theme=dark)
 
 
 ## Projects
