@@ -2,13 +2,13 @@
 <h3 align="center"> Full Stack developer(Leaerning) </h3>
 
 <p align="center">l
-<a href="https://www.linkedin.com/in/samir-neupane-59755b188/" ><img src="https://img.shields.io/badge/-linkedin-yellowgreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/samir-neupane-749555237/" ><img src="https://img.shields.io/badge/-linkedin-yellowgreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
 <a href="https://twitter.com/SamirNeupane932" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 </p>
 <br />
 
 ## Languages and tools
-![skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,mongodb,postman,expressjs,ts,js,tailwindcss,scss,css,appwrite,html,git&theme=dark)
+![skills](https://skillicons.dev/icons?i=nextjs,react,docker,postgresql,prisma,nodejs,mongodb,postman,expressjs,ts,js,tailwindcss,scss,css,appwrite,html,git&theme=dark)
 
 
 ## Projects
