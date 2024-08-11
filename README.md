@@ -12,11 +12,11 @@
 
 
 ## Projects
-- 📝  [BlogShare](https://blogshare984.netlify.app/)  
-- 🎬  [MovieMagnet](https://moviemagnet984.netlify.app/)
--  ▶️  [YoutubeClone](https://youtubeclone984.netlify.app/)
-- ⭐  [menu](https://samir984.github.io/menu/)  
- 
+- ♟️   [RealTimeChess](https://real-time-chess.vercel.app/)
+- 🛍️  [Ecommerce](https://ecommerce-cli.vercel.app/) -> functionality heavy project not UI
+- 📝  [BlogShare](https://blogshare984.netlify.app/) 
+- ⭐  [menu](https://samir984.github.io/menu/) 
+   
 
 ### ✨ Familiar with 
 ![skills](https://skillicons.dev/icons?i=c,cpp&theme=dark)
