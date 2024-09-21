@@ -18,6 +18,6 @@
 - ⭐  [menu](https://samir984.github.io/menu/) 
    
 
-### ✨ Familiar with 
-![skills](https://skillicons.dev/icons?i=c,cpp&theme=dark)
+### ✨ Currently learning
+![skills](https://skillicons.dev/icons?i=django&theme=dark)
 
