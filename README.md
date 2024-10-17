@@ -19,5 +19,5 @@
    
 
 ### ✨ Currently learning
-![skills](https://skillicons.dev/icons?i=django,drf&theme=dark)
+![skills](https://skillicons.dev/icons?i=django,djangorestframework&theme=dark)
 
