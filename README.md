@@ -13,7 +13,7 @@
 
 ## Projects
 - ♟️   [RealTimeChess](https://chessconnect.vercel.app/) -> currently working on
-- 🛍️  [Ecommerce](https://ecommerce-cli.vercel.app/) -> functionality heavy project
+- 🛍️  [Ecommerce](https://ecommerce-cli.vercel.app/) -> backend heavy project
 - 📝  [BlogShare](https://blogshare984.netlify.app/)  
 - ⭐  [menu](https://samir984.github.io/menu/) 
    
