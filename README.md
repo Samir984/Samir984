@@ -8,7 +8,7 @@
 <br />
 
 ## Languages and tools
-![skills](https://skillicons.dev/icons?i=ts,nextjs,docker,postgresql,prisma,express,mongodb,tailwind,appwrite&theme=dark)
+![skills](https://skillicons.dev/icons?i=ts,nextjs,docker,postgresql,prisma,express,django,mongodb,tailwind,appwrite&theme=dark)
 
 
 ## Projects
@@ -19,5 +19,5 @@
    
 
 ### ✨ Currently learning
-![skills](https://skillicons.dev/icons?i=django,djangorestframework&theme=dark)
+![skills](https://skillicons.dev/icons?i=,djangorestframework&theme=dark)
 
