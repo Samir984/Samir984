@@ -8,7 +8,7 @@
 <br />
 
 ## Languages and tools
-![skills](https://skillicons.dev/icons?i=ts,nextjs,redis,drf,docker,postgresql,prisma,express,django,mongodb,tailwind,appwrite&theme=dark)
+![skills](https://skillicons.dev/icons?i=ts,nextjs,redis,docker,postgresql,prisma,express,django,mongodb,tailwind,appwrite&theme=dark)
 
 
 ## Projects
