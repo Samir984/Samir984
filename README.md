@@ -13,6 +13,7 @@
 
 ## Projects
 - ♟️   [RealTimeChess](https://chessconnect.vercel.app/) -> currently working on
+- 🤑   [AuctioonHub](https://github.com/Samir984/AuctionHub) -> api for marketplace (to create aution and apply bid)
 - 🛍️  [Ecommerce](https://ecommerce-cli.vercel.app/) -> backend heavy project
 - 📝  [BlogShare](https://blogshare984.netlify.app/)  
 - ⭐  [menu](https://samir984.github.io/menu/) 
