@@ -19,6 +19,6 @@
 - ⭐  [menu](https://samir984.github.io/menu/) 
    
 
-### ✨ Currently learning
+### ✨ Thinking to explore
 ![skills](https://skillicons.dev/icons?i=go&theme=dark)
 
