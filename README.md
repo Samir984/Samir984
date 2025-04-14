@@ -18,7 +18,3 @@
 - 📝  [BlogShare](https://blogshare984.netlify.app/)  
 - ⭐  [menu](https://samir984.github.io/menu/) 
    
-
-### ✨ Thinking to explore
-![skills](https://skillicons.dev/icons?i=go&theme=dark)
-
