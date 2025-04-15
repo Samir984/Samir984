@@ -21,5 +21,5 @@
 
 
 ## Learning stuff
-![skills]([https://skillicons.dev/icons?i=$&theme=dark](https://skillicons.dev/icons?i=aws,kubernative&theme=dark))
+![skills]([https://skillicons.dev/icons?i=$&theme=dark](https://skillicons.dev/icons?i=aws,kubernative&theme=dark)
 
