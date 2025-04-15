@@ -17,4 +17,9 @@
 - 🛍️  [Ecommerce](https://ecommerce-cli.vercel.app/) -> backend heavy project
 - 📝  [BlogShare](https://blogshare984.netlify.app/)  
 - ⭐  [menu](https://samir984.github.io/menu/) 
-   
+
+
+
+## Learning stuff
+![skills]([https://skillicons.dev/icons?i=$&theme=dark](https://skillicons.dev/icons?i=aws,kubernative&theme=dark)
+
