@@ -12,9 +12,9 @@
 
 
 ## Projects
-- ♟️   [RealTimeChess](https://chessconnect.vercel.app/) -> currently working on
-- 📚   [LocalBook](https://github.com/Samir984/local_book) -> Full stack project in Django and React.
-- 🛍️  [Ecommerce](https://ecommerce-cli.vercel.app/) -> backend heavy project
+- ♟️   [RealTimeChess](https://chessconnect.vercel.app/)
+- 📚   [LocalBook](https://github.com/Samir984/local_book) 
+- 🛍️  [Ecommerce](https://ecommerce-cli.vercel.app/)
 - 📝  [BlogShare](https://blogshare984.netlify.app/)  
 - ⭐  [menu](https://samir984.github.io/menu/) 
 
