@@ -15,8 +15,6 @@
 - ♟️   [RealTimeChess](https://chessconnect.vercel.app/)
 - 📚   [LocalBook](https://github.com/Samir984/local_book) 
 - 🛍️  [Ecommerce](https://ecommerce-cli.vercel.app/)
-- 📝  [BlogShare](https://blogshare984.netlify.app/)  
-- ⭐  [menu](https://samir984.github.io/menu/) 
 
 
 ## Wrapping Head Around
