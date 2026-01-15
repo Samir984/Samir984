@@ -13,6 +13,7 @@
 
 ## Projects
 - ♟️   [RealTimeChess](https://chessconnect.vercel.app/)
+- 🤖   [ChatBot](https://github.com/Samir984/chat_bot) 
 - 📚   [LocalBook](https://github.com/Samir984/local_book) 
 
 
