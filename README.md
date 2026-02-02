@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Samir </h1>
-<h3 align="center"> Full Stack developer </h3>
+<h3 align="center"> Full Stack developer + curious person  </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/samir-neupane-749555237/" ><img src="https://img.shields.io/badge/-linkedin-yellowgreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
